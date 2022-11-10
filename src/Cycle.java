@@ -8,5 +8,6 @@ public class Cycle {
             System.out.print(words[word] + " ");
             word++;
         } while (words[word] != "Слон");
+        // Внёс изменения
     }
 }
